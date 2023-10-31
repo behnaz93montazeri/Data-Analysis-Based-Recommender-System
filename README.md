@@ -6,7 +6,7 @@ This project presents a data analysis-based recommender system that provides mov
 ## Methodology
 This recommender system follows these key steps:
 
-1. **Data Merging**: Two datasets, one containing user informations (such as user id and ratings) and the other movie details (movie tile and item id), are merged to create a comprehensive movie database.
+1. **Data Merging**: Two datasets, one containing user informations (such as user id and ratings) and the other movie details (movie title and item id), are merged to create a comprehensive movie database.
 
 2. **Data Exploration**: A new data frame is created, containing movie titles, average ratings, and the number of ratings. Data visualizations are used to examine the relationship between the number of ratings and movie ratings. The observation is that, as the number of ratings increases, the movie ratings tend to rise.
    
